@@ -1,0 +1,610 @@
+{
+  "channel": "https://www.youtube.com/@%EB%B9%9B%EC%82%AC%EB%83%A5-o4y/videos",
+  "collectedAt": "2026-11-09",
+  "inventoryPages": 4,
+  "inventoryComplete": true,
+  "channelVideoCount": 98,
+  "inclusionRule": {
+    "field": "published",
+    "fromInclusive": "2023-01-01",
+    "toInclusive": "2026-11-09"
+  },
+  "includedCount": 61,
+  "excludedCount": 37,
+  "publicationYearCounts": {
+    "2026": 15,
+    "2025": 10,
+    "2024": 19,
+    "2023": 17
+  },
+  "videos": [
+    {
+      "id": "cYVrkRwqIp0",
+      "originalTitle": "제7회 빛무리 영화제 ‘3분’ / 1조 - 3분남친",
+      "published": "2026-11-04",
+      "included": true
+    },
+    {
+      "id": "0dfv4Bb82UM",
+      "originalTitle": "제7회 빛무리 영화제 ‘3분’ / 2조 - 도덕들",
+      "published": "2026-11-04",
+      "included": true
+    },
+    {
+      "id": "SsjkQUgcptM",
+      "originalTitle": "제7회 빛무리 영화제 ‘3분’ / 3조 - 종점",
+      "published": "2026-11-03",
+      "included": true
+    },
+    {
+      "id": "V3I1RAVv0g8",
+      "originalTitle": "제7회 빛무리 영화제 ‘3분’ / 5조 - 살아남으려 했을 뿐이다",
+      "published": "2026-11-03",
+      "included": true
+    },
+    {
+      "id": "bKnaMoTChKQ",
+      "originalTitle": "제7회 빛무리 영화제 ‘3분’ / 6조 - COOK",
+      "published": "2026-11-03",
+      "included": true
+    },
+    {
+      "id": "bzwtzwAIdNY",
+      "originalTitle": "from.승연 (2025-2학기)",
+      "published": "2026-11-03",
+      "included": true
+    },
+    {
+      "id": "AAMz6KgLNRk",
+      "originalTitle": "내 몸 뺏어놓고 (2026-1학기)",
+      "published": "2026-07-23",
+      "included": true
+    },
+    {
+      "id": "m-vb4xrvy4A",
+      "originalTitle": "제6회 빛무리 영화제 '결심' / 5조 - 그녀를 지웁니다",
+      "published": "2026-06-05",
+      "included": true
+    },
+    {
+      "id": "9Jimw7DR3FQ",
+      "originalTitle": "제6회 빛무리 영화제 '결심' / 4조 - 하림의 세포들",
+      "published": "2026-06-05",
+      "included": true
+    },
+    {
+      "id": "tKNYIf9celU",
+      "originalTitle": "제6회 빛무리 영화제 '결심' / 3조 - Role Model",
+      "published": "2026-06-05",
+      "included": true
+    },
+    {
+      "id": "K-2GyMWawao",
+      "originalTitle": "제6회 빛무리 영화제 '결심' / 2조 - 주원에게",
+      "published": "2026-06-04",
+      "included": true
+    },
+    {
+      "id": "GerfW-UYBzA",
+      "originalTitle": "제6회 빛무리 영화제 '결심' / 1조 - 사소한 결심",
+      "published": "2026-06-04",
+      "included": true
+    },
+    {
+      "id": "aMY7lvHZLXY",
+      "originalTitle": "섬광 (2025-2학기)",
+      "published": "2026-02-11",
+      "included": true
+    },
+    {
+      "id": "8MVfOOGOjHY",
+      "originalTitle": "제4회 그린 이니셔티브 60초 영화제 출품작 - 타임캡슐",
+      "published": "2026-02-04",
+      "included": true
+    },
+    {
+      "id": "AQ2HHN4Fcn4",
+      "originalTitle": "제4회 그린 이니셔티브 60초 영화제 수상작 - 전구 가는 법",
+      "published": "2026-02-04",
+      "included": true
+    },
+    {
+      "id": "P8Qe04N6jWc",
+      "originalTitle": "빨간색 공포증 (2025-1학기)",
+      "published": "2025-07-26",
+      "included": true
+    },
+    {
+      "id": "voRSZyGuKAM",
+      "originalTitle": "제 5회 빛무리 영화제 '오해' / 4팀 -오해와 편견- [경희대생vlog] 독서실에서 고백받은 브이로그",
+      "published": "2025-07-13",
+      "included": true
+    },
+    {
+      "id": "iNpUdCKzoJc",
+      "originalTitle": "고백까지 걸린 시간 (2025-1학기)",
+      "published": "2025-07-13",
+      "included": true
+    },
+    {
+      "id": "cCP96HCLwoY",
+      "originalTitle": "제 5회 빛무리 영화제 '오해' / 5팀 -CLOSED-",
+      "published": "2025-07-13",
+      "included": true
+    },
+    {
+      "id": "VS7rihVkb3w",
+      "originalTitle": "제 5회 빛무리 영화제 '오해' / 3팀 -마녀-",
+      "published": "2025-07-13",
+      "included": true
+    },
+    {
+      "id": "DMEnp1ZVj0k",
+      "originalTitle": "제 5회 빛무리 영화제 '오해' / 2팀 -missunderstanding-",
+      "published": "2025-07-13",
+      "included": true
+    },
+    {
+      "id": "xPdhcBMNZtM",
+      "originalTitle": "제 5회 빛무리 영화제 '오해' / 1팀  -신데렐라-",
+      "published": "2025-07-13",
+      "included": true
+    },
+    {
+      "id": "6ISo9CsbZFE",
+      "originalTitle": "레퀴엠 (24-2) 메이킹 영상",
+      "published": "2025-03-04",
+      "included": true
+    },
+    {
+      "id": "bDx28t3rJT8",
+      "originalTitle": "레퀴엠:Requiem (2024-2학기)",
+      "published": "2025-02-25",
+      "included": true
+    },
+    {
+      "id": "L-6O0TEAJFQ",
+      "originalTitle": "보통의 하루 (2024-2학기)",
+      "published": "2025-02-25",
+      "included": true
+    },
+    {
+      "id": "cTYXi072ATk",
+      "originalTitle": "제 4회 빛무리 영화제 락/밴드3조 'In Sync'",
+      "published": "2024-11-21",
+      "included": true
+    },
+    {
+      "id": "qFwfpijyxV8",
+      "originalTitle": "제 4회 빛무리 영화제 힙합조 'Good Kid'",
+      "published": "2024-11-21",
+      "included": true
+    },
+    {
+      "id": "h0FDKA2AMyo",
+      "originalTitle": "제 4회 빛무리 영화제 클래식조 '진실게임'",
+      "published": "2024-11-21",
+      "included": true
+    },
+    {
+      "id": "LleiqP3qkMI",
+      "originalTitle": "제 4회 빛무리 영화제 애니조 '헛탐정 고난'",
+      "published": "2024-11-21",
+      "included": true
+    },
+    {
+      "id": "Wi19fjXUeBY",
+      "originalTitle": "제 4회 빛무리 영화제 락/밴드2조 '부먹, 찍먹, 엿먹'",
+      "published": "2024-11-21",
+      "included": true
+    },
+    {
+      "id": "aU3QRL-ShX0",
+      "originalTitle": "제 4회 빛무리 영화제 락/밴드1조 '한시 오분'",
+      "published": "2024-11-21",
+      "included": true
+    },
+    {
+      "id": "r3TCm7dyVms",
+      "originalTitle": "Pimple in Lover (2024-1학기)",
+      "published": "2024-07-02",
+      "included": true
+    },
+    {
+      "id": "cm3CmoQRGkI",
+      "originalTitle": "The door (2024-1학기)",
+      "published": "2024-07-02",
+      "included": true
+    },
+    {
+      "id": "MyJl-6Nd6ms",
+      "originalTitle": "CC의 법칙 (2024-1학기)",
+      "published": "2024-07-02",
+      "included": true
+    },
+    {
+      "id": "9VeZSJesOaE",
+      "originalTitle": "제 3회 빛무리 영화제 7조 'Blossom'",
+      "published": "2024-06-24",
+      "included": true
+    },
+    {
+      "id": "jZ6lz4oDnuc",
+      "originalTitle": "제 3회 빛무리 영화제 6조 '작품'",
+      "published": "2024-06-24",
+      "included": true
+    },
+    {
+      "id": "6gPXMu4Tdn0",
+      "originalTitle": "제 3회 빛무리 영화제 4조 '심.쿵.'",
+      "published": "2024-06-24",
+      "included": true
+    },
+    {
+      "id": "MtJt0gPfebs",
+      "originalTitle": "제 3회 빛무리 영화제 3조 '떨어지는 벚꽃잎을 잡아라'",
+      "published": "2024-06-24",
+      "included": true
+    },
+    {
+      "id": "MhI2RBDqB_U",
+      "originalTitle": "제 3회 빛무리 영화제 2조 '종이비행기'",
+      "published": "2024-06-24",
+      "included": true
+    },
+    {
+      "id": "giKX4FkQIHg",
+      "originalTitle": "제 3회 빛무리 영화제 1조 '리와인드'",
+      "published": "2024-06-24",
+      "included": true
+    },
+    {
+      "id": "DZ0VvaPH7j0",
+      "originalTitle": "매미 (2023-2학기)",
+      "published": "2024-01-09",
+      "included": true
+    },
+    {
+      "id": "LRERMYcI5VI",
+      "originalTitle": "주인 (2022-2 공모전 출품작)",
+      "published": "2024-01-05",
+      "included": true
+    },
+    {
+      "id": "dGCSlkPXfXI",
+      "originalTitle": "twelve minutes 메이킹 필름",
+      "published": "2024-01-05",
+      "included": true
+    },
+    {
+      "id": "Q2KFNXuRPXE",
+      "originalTitle": "twelve minutes (2023-2학기)",
+      "published": "2024-01-05",
+      "included": true
+    },
+    {
+      "id": "tViWNleY4Ws",
+      "originalTitle": "빛사냥 제 35주년 창립제 부원 인터뷰 영상",
+      "published": "2023-11-19",
+      "included": true
+    },
+    {
+      "id": "Vhum1WF2m1M",
+      "originalTitle": "제 2회 빛무리 영화제 : 벌새",
+      "published": "2023-09-26",
+      "included": true
+    },
+    {
+      "id": "2nhlPSfHV2k",
+      "originalTitle": "제 2회 빛무리 영화제 : 메기",
+      "published": "2023-09-26",
+      "included": true
+    },
+    {
+      "id": "PPWqukQ7Fkw",
+      "originalTitle": "제 2회 빛무리 영화제 : 파수꾼",
+      "published": "2023-09-26",
+      "included": true
+    },
+    {
+      "id": "E-Shmt2Vfmc",
+      "originalTitle": "다른 사람이 버린 운을 줍는 겁니다 (2023-1학기)",
+      "published": "2023-08-06",
+      "included": true
+    },
+    {
+      "id": "6K1nYbwFFPg",
+      "originalTitle": "바다가 있는 곳 (2023-1학기)",
+      "published": "2023-08-06",
+      "included": true
+    },
+    {
+      "id": "1FxmqwyUnt4",
+      "originalTitle": "제 1회 빛무리 영화제 7팀 : Old Maid : 도둑잡기 (최우수상)",
+      "published": "2023-04-07",
+      "included": true
+    },
+    {
+      "id": "b2yfBahNKhY",
+      "originalTitle": "제 1회 빛무리 영화제 6팀 : 버그",
+      "published": "2023-04-07",
+      "included": true
+    },
+    {
+      "id": "ASWIvogtIdI",
+      "originalTitle": "제 1회 빛무리 영화제 5팀 : 강의실 404 (우수상)",
+      "published": "2023-04-07",
+      "included": true
+    },
+    {
+      "id": "pbUSRlODZ0s",
+      "originalTitle": "제 1회 빛무리 영화제 4팀 : 조로인생",
+      "published": "2023-04-07",
+      "included": true
+    },
+    {
+      "id": "6gm9ocEoueU",
+      "originalTitle": "제 1회 빛무리 영화제 3팀 : spotlight",
+      "published": "2023-04-07",
+      "included": true
+    },
+    {
+      "id": "mnNGxNt1xEc",
+      "originalTitle": "제 1회 빛무리 영화제 2팀 : 스토킹",
+      "published": "2023-04-07",
+      "included": true
+    },
+    {
+      "id": "n1A1pQi6CMI",
+      "originalTitle": "제 1회 빛무리 영화제 1팀 : Key Factor",
+      "published": "2023-04-07",
+      "included": true
+    },
+    {
+      "id": "dPRYkXCaYJI",
+      "originalTitle": "22-2 빛사냥 학기 영화 MAKING FILM",
+      "published": "2023-01-03",
+      "included": true
+    },
+    {
+      "id": "p6dRuGqg51E",
+      "originalTitle": "Always Forever (2022-2학기)",
+      "published": "2023-01-03",
+      "included": true
+    },
+    {
+      "id": "L64jzqGGw6g",
+      "originalTitle": "피클볼 (2022-2학기)",
+      "published": "2023-01-03",
+      "included": true
+    },
+    {
+      "id": "YCzxKrzVB8c",
+      "originalTitle": "'주인' MAKING FILM (2022-2 공모전 출품작 메이킹 필름)",
+      "published": "2023-01-03",
+      "included": true
+    },
+    {
+      "id": "8_V8MW_xojs",
+      "originalTitle": "주마등 (2022-1학기)",
+      "published": "2022-09-20",
+      "included": false
+    },
+    {
+      "id": "HCz_qvIrkMo",
+      "originalTitle": "B-Day (2022-1학기)",
+      "published": "2022-09-20",
+      "included": false
+    },
+    {
+      "id": "L6X24QzJq20",
+      "originalTitle": "첫사랑 (2022-1학기)",
+      "published": "2022-09-20",
+      "included": false
+    },
+    {
+      "id": "yfe2nGKCBhI",
+      "originalTitle": "2022년 1학기 빛사냥 신입부원 모집합니다!",
+      "published": "2022-03-06",
+      "included": false
+    },
+    {
+      "id": "vQx4WUJbVA0",
+      "originalTitle": "꽃잎처럼 (2021_공모전 출품작)",
+      "published": "2022-02-28",
+      "included": false
+    },
+    {
+      "id": "sAp4u-GeqqM",
+      "originalTitle": "2021년 겨울영화 '카메라' MAKING FILM",
+      "published": "2022-02-28",
+      "included": false
+    },
+    {
+      "id": "hDtKnhGq9EA",
+      "originalTitle": "미장센 - 운명, 혹은 선택 (2021-2학기)",
+      "published": "2022-02-24",
+      "included": false
+    },
+    {
+      "id": "3NDwvyVBow4",
+      "originalTitle": "델리스파이스와 뜨거운 감자, 그 사이 어딘가 (2021-2학기)",
+      "published": "2021-12-05",
+      "included": false
+    },
+    {
+      "id": "PiVAR96LsIE",
+      "originalTitle": "여름의 바다를 헤엄치는 방법(2020-1)",
+      "published": "2021-10-13",
+      "included": false
+    },
+    {
+      "id": "fPLYCs7ZBiQ",
+      "originalTitle": "'디딤돌'(소:담 공모전 아이다 상)",
+      "published": "2021-03-01",
+      "included": false
+    },
+    {
+      "id": "Fdq9FUggjVA",
+      "originalTitle": "제3회 ‘세상을 안전하게, 사람을 아름답게’ 영상 공모전 빛사냥 수감소상",
+      "published": "2021-03-01",
+      "included": false
+    },
+    {
+      "id": "XS1MS6U1svE",
+      "originalTitle": "'껍데기'(제3회 세상을 안전하게, 사람을 아름답게 영상공모전 최우수상) /2020년 2학기 빛사냥",
+      "published": "2021-03-01",
+      "included": false
+    },
+    {
+      "id": "bu17d0itIgo",
+      "originalTitle": "다시 돌아갈 기회가 있다면 - 기회(2019)",
+      "published": "2020-01-14",
+      "included": false
+    },
+    {
+      "id": "LucNEHFdPow",
+      "originalTitle": "오지 않는 버스를 기다리는 사람들 - 정류장(2019)",
+      "published": "2019-12-29",
+      "included": false
+    },
+    {
+      "id": "nffZfbA-kXU",
+      "originalTitle": "질문하기 전에 생각하셨나요?",
+      "published": "2019-11-17",
+      "included": false
+    },
+    {
+      "id": "NSxjpLPMC4k",
+      "originalTitle": "2013 빛사냥 영화캠프 액티비티 영상",
+      "published": "2018-11-11",
+      "included": false
+    },
+    {
+      "id": "xZBIwFGbqb8",
+      "originalTitle": "빛사냥 20주년 창립제 사진영상(~00)",
+      "published": "2018-11-10",
+      "included": false
+    },
+    {
+      "id": "LXiAbl2C2fo",
+      "originalTitle": "2014 영화 '밥먹을래'",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "irKvvVNWnkM",
+      "originalTitle": "2012 영화 '이입'",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "vx1xZIsZJNs",
+      "originalTitle": "2015 영화 '금사빠'",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "gxDSNuTgh7s",
+      "originalTitle": "2015 빛사냥 홍보영상",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "UaiE5johRx0",
+      "originalTitle": "2014 뮤직비디오 '사랑은타이밍'",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "m1aUD9QGbnc",
+      "originalTitle": "2009 빛사냥 창립제 소개영상",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "S3M3TGZgXKA",
+      "originalTitle": "2012 영화 '푸른수평선'",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "78B0cuYG5KM",
+      "originalTitle": "2010 영화 '안녕 내일'",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "77khbv7NA8Q",
+      "originalTitle": "2012 따라찍기 '타짜 오마주'",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "NV3GUDskIlg",
+      "originalTitle": "2007년 여름영화 '나른함그리고두근두근'",
+      "published": "2018-11-08",
+      "included": false
+    },
+    {
+      "id": "v5paJLH1nUk",
+      "originalTitle": "2005 빛사냥 여름영화 '무당벌레'",
+      "published": "2018-11-01",
+      "included": false
+    },
+    {
+      "id": "jl0BUdY2EKY",
+      "originalTitle": "2006 빛사냥 여름영화' 학관느와르'",
+      "published": "2018-11-01",
+      "included": false
+    },
+    {
+      "id": "eMPRbTcpm40",
+      "originalTitle": "2013 빛사냥 여름영화 '졸업작품'",
+      "published": "2018-11-01",
+      "included": false
+    },
+    {
+      "id": "Arp4W55zOjM",
+      "originalTitle": "1997 빛사냥 여름영화 '노란하루'",
+      "published": "2018-11-01",
+      "included": false
+    },
+    {
+      "id": "Nmj-E5duus8",
+      "originalTitle": "빛사냥 30주년 영화 메이킹 모음(~01)",
+      "published": "2018-10-16",
+      "included": false
+    },
+    {
+      "id": "JCOSX_26ZV4",
+      "originalTitle": "빛사냥 30주년 MT영상 모음(~00)",
+      "published": "2018-10-16",
+      "included": false
+    },
+    {
+      "id": "3ikGwm116XY",
+      "originalTitle": "2018년 빛사냥 신입부원 소개 영상",
+      "published": "2018-10-16",
+      "included": false
+    },
+    {
+      "id": "jT1iiGetIxA",
+      "originalTitle": "빛사냥 30주년 창립제 오프닝 영상",
+      "published": "2018-10-16",
+      "included": false
+    },
+    {
+      "id": "pcRin-xvB1s",
+      "originalTitle": "빛사냥 30주년 기념 사진영상(1988~2018)",
+      "published": "2018-10-16",
+      "included": false
+    },
+    {
+      "id": "K5C_Z_KP9yU",
+      "originalTitle": "2018 빛사냥 30주년 기념영화 '7942'",
+      "published": "2018-10-16",
+      "included": false
+    }
+  ]
+}
